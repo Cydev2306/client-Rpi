@@ -1,0 +1,14 @@
+{
+  "name": "client-rpi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+    },
+  "author": "cydev",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io-client": "^2.0.4"
+  }
+}
